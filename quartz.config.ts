@@ -14,8 +14,8 @@ const config: QuartzConfig = {
     defaultDateType: "created",
     theme: {
       typography: {
-        header: "Schibsted Grotesk",
-        body: "Source Sans Pro",
+        header: "Noto Sans Display",
+        body: "Noto Sans",
         code: "JetBrains Mono",
       },
       colors: {
@@ -35,7 +35,7 @@ const config: QuartzConfig = {
           gray: "#646464",
           darkgray: "#d4d4d4",
           dark: "#ebebec",
-          secondary: "#993ede",
+          secondary: "#9771f0",
           tertiary: "#84a59d",
           highlight: "rgba(143, 159, 169, 0.15)",
         },
