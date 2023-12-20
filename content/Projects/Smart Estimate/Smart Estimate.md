@@ -2,8 +2,8 @@ The SMART Estimate Tool is a convenient way for Muskoka Dealer Partners to creat
 
 ## Useful Links
 
-[[User Stories]]
-	Track Live Progress 🚨  through User Stories. This bridges the gap between what Features Users want and the work🔧 behind it.
+[[User Stories]]    
+	Track 🚨Live Progress🚨  through User Stories. This bridges the gap between what ✅Features Users want and the work🔧 behind it.
 
 [Live Preview](https://muskoka-estimate.azurewebsites.net/)
 	
