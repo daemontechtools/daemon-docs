@@ -3,4 +3,4 @@ Welcome to my attempt at organising my thoughts in regards to my client work. Th
 Here are some of my favourite projects.
 
 ## Top Projects
-[[Projects/Smart Estimate/index|Smart Estimate]]
+[[Smart Estimate|Smart Estimate]]
